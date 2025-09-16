@@ -15,9 +15,11 @@ def left_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("The squirrel nicks you with its teeth and poisons you, making you corrupted!")
 
 def center_path():
     print("You go through the center path and meet a sphynx that would question you.")
 
 if __name__ == "__main__":
     intro()
+#my second commit for the villain
